@@ -1,0 +1,25 @@
+
+q	java:S116"WRename this field "MAIN_HEADING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿı¸ÿÿÿÿÿ
+|	java:S116
+"bRename this field "APPOINTMENT_TEST_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‚ÇÑşÿÿÿÿ
+y	java:S116"dRename this field "LOGIN_TO_MAKE_APPOINTMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤£Ë­
+|	java:S116"bRename this field "TEST_NAVIGATION_HISTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¢·úşÿÿÿÿ
+v	java:S116"aRename this field "TEST_NAVIGATION_LOGOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ«Å®
+u	java:S116"`Rename this field "TEST_NAVIGATION_LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú›Î
+l	java:S116"WRename this field "MENU_TOGGLER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ô¡ñ
+s	java:S116"^Rename this field "APPOINTMENT_HEADING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çƒ„‡
+s	java:S116"_Rename this field "SELECT_FACILITY_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şà
+w	java:S116"bRename this field "CHECK_APPLY_READMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ñíı
+†	java:S116"lRename this field "RADIO_HEALTHCARE_PROGRAM_MEDICARE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀààÓşÿÿÿÿ
+	java:S116"lRename this field "RADIO_HEALTHCARE_PROGRAM_MEDICIAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÇÍÍ
+}	java:S116 "hRename this field "RADIO_HEALTHCARE_PROGRAM_NONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡ÄÈ
+v	java:S116""\Rename this field "SELECT_VISIT_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(””æçüÿÿÿÿ
+m	java:S116$"XRename this field "INPUT_COMMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜…×Ø
+q	java:S116&"]Rename this field "SUBMIT_APPOINTMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·³Ñ
+}	java:S116("cRename this field "APPOINTMENT_CONFIRMATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ©æıÿÿÿÿ
+l	java:S116*"WRename this field "BACK_TO_HOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¸Ò¨
+­
+java:S18456"–Rename method "loadHomepage" to prevent any misunderstanding/clash with method "loadHomePage" defined in superclass "com.sysco.qe.cura.util.BasePage".(Ë²¨Ç
+X
+java:S1126Q"BReplace this if-then-else statement by a single method invocation.(ÊÔÊ­
+V	java:S125n"<This block of commented-out lines of code should be removed.(ÖàÒ®ÿÿÿÿÿ
