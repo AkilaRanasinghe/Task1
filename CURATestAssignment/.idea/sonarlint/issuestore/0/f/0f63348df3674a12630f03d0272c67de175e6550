@@ -1,9 +1,0 @@
-
-C
-java:S1905M"-Remove this unnecessary cast to "WebElement".(έτν
-S
-java:S3878]"8Remove this array creation and simply pass the elements.(²±—ωÿÿÿÿ
-M	java:S106o"9Replace this use of System.out or System.err by a logger.(Ι†1
-S	java:S106q"9Replace this use of System.out or System.err by a logger.(α¦ψ”ύÿÿÿÿ
-d
-java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(΄—βΫψÿÿÿÿ8ίσΎΞ0
