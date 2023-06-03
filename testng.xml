@@ -3,27 +3,27 @@
 <suite name="test_suite">
     <test name="Test Homepage Functionality">
         <classes>
-            <class name="com.sysco.qe.cura.test.home.HomepageFunctionalityTest"/>
+            <class name="com.cura.test.home.HomepageFunctionalityTest"/>
         </classes>
     </test>
     <test name="Test Login Functionality">
         <classes>
-            <class name="com.sysco.qe.cura.test.login.UserLoginTest"/>
+            <class name="com.cura.test.login.UserLoginTest"/>
         </classes>
     </test>
     <test name="Test Appointment Form">
         <classes>
-            <class name="com.sysco.qe.cura.test.appointment.MakeAppointmentTest"/>
+            <class name="com.cura.test.appointment.MakeAppointmentTest"/>
         </classes>
     </test>
     <test name="Test History Page">
         <classes>
-            <class name="com.sysco.qe.cura.test.history.CheckHistoryTest"/>
+            <class name="com.cura.test.history.CheckHistoryTest"/>
         </classes>
     </test>
     <test name="Test Logout">
         <classes>
-            <class name="com.sysco.qe.cura.test.logout.UserLogoutTest"/>
+            <class name="com.cura.test.logout.UserLogoutTest"/>
         </classes>
     </test>
 </suite>
